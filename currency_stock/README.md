@@ -7,3 +7,4 @@ Library - import pandas as pd
  
  data -   stock: Cervus(canadian stock), Petrobras(Brazil Stock), Apple(American Stock).
           Currency: Canadian Dolar to American Dolar and Brazilian Real to American Dolar.
+          Index: SP500.
